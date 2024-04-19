@@ -21,6 +21,7 @@ This Python project aims to analyze Diwali sales data to improve customer experi
 
 ### Dependencies:
 
+- Python
 - numpy
 - pandas
 - matplotlib.pyplot
